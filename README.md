@@ -60,7 +60,7 @@ A ideia central é que **um app financeiro não é um CRUD**. Uma transferência
 ## Instalação
 
 ### Windows
-Baixe o instalador `Finn-Setup-x.y.z.exe` na página de [Releases](https://github.com/ReisLucasF/finan/releases) e execute. O app avisa quando sai uma versão nova, em **Mais → Verificar atualização**.
+Baixe o instalador `Finn-Setup-x.y.z.exe` na página de [Releases](https://github.com/ReisLucasF/finn/releases) e execute. O app avisa quando sai uma versão nova, em **Mais → Verificar atualização**.
 
 > O repositório é privado, então a verificação de atualização precisa de um token do GitHub com permissão de leitura nas releases. Veja [Atualização automática](#atualização-automática).
 
